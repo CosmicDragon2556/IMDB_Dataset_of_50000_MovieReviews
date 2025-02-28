@@ -82,7 +82,7 @@ pip install numpy pandas scikit-learn xgboost lightgbm nltk matplotlib
 ```
 2. Download the dataset and unzip it.
 
-3. Run the sentiment_analysis.py script to preprocess and train models.
+3. Run the sentiment_analysis.ipynb script to preprocess and train models.
 
 4. Evaluate the model performance using accuracy and classification reports.
 
